@@ -26,3 +26,5 @@ Thumbs.db
 # Others (if applicable)
 coverage/
 
+config.yml
+
